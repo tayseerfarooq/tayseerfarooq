@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 I'm currently working on cool software and ML side projects.<br>🤝 I'm looking to collaborate on startups and creative builds.<br>🆘 I need help with freelancing, resources, and guidance to scale ideas globally.<br>📚 I'm learning AI, iOS dev, and system design.<br>💬 Ask me about software engineering in India, startups, coding vibes, and tech journeys.
+🔥 I'm currently working on cool software and ML side projects.<br>🤝 I'm looking to collaborate on startups and creative builds.<br>🆘 I need help with freelancing, resources, and guidance to scale ideas globally.<br>📚 I'm learning AI, iOS dev, and system design.<br>💬 Ask me about Computer Science, startups, vibe coding, and tech journeys.
 
 
 ## 🌐 Socials:
